@@ -1,0 +1,17 @@
+.app {
+  text-align: center;
+}
+
+.app__title {
+  font-family: "Enriqueta", arial, serif;
+  line-height: 1.25;
+  margin: 0 0 10px;
+  font-size: 40px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.app__body {
+  max-width: 320px;
+  margin: auto;
+}
